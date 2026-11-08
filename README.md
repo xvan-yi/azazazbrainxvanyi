@@ -1,6 +1,8 @@
 # azazazbrainxvanyi
 A local music player that lives on your desktop.
 
+Mostly coded by GPT6astra,but I promise that I particpated in every step😭
+
 Please use Windows 10 or 11. Windows 7 hasn't been adapted for yet—sorry, Win7!
 
 ## Getting Started
